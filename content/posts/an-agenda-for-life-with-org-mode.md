@@ -29,8 +29,8 @@ Each of these use cases aligns with an Org Mode feature, and those features are,
 respectively:
 
 1. A plain TODO entry,
-2. An entry with a SCHEDULED time stamp,
-3. An entry with a DEADLINE time stamp, and
+2. An entry with a DEADLINE time stamp,
+3. An entry with a SCHEDULED time stamp, and
 4. An entry with a STYLE property of "habit."
 
 ## Building the Agenda ##
