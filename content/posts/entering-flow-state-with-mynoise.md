@@ -67,12 +67,12 @@ where you can browse hundreds of sound "generators" that each create a
 customizable auditory atmosphere.
 
 What makes myNoise valuable is the quality and breadth of sound environments
-available, but what makes it remarkable is its customization
-capabilities. Everything from natural sounds like waterfalls or tropical
-rainforests, to fictional environments like "medieval library" or "port town."
+available---everything from natural sounds like waterfalls or tropical
+rainforests, to fictional environments like "medieval library" or "port
+town"---but what makes it remarkable is its customization capabilities.
 
 Depending on your task at hand and your state of mind, you might like to
-enter---through sound---a busy cafe, with the indistinct chatter of patrons and
+enter, through sound, a busy cafe, with the indistinct chatter of patrons and
 the clinking of dishware; or, perhaps you'd prefer an imaginary alchemist's lab,
 with its bubbling experiments, hissing bellows, the soft writing on a
 chalkboard, and the subtle ticking of an old mechanical clock.
