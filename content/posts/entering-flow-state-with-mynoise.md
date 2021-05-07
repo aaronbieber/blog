@@ -16,7 +16,10 @@ tricks I've developed.
 
 {{<infobox>}}
 I have donated to myNoise and I use it often, but this post isn't in any way
-sponsored. They don't even know that I'm writing it.
+sponsored. ~~They don't even know that I'm writing it.~~
+
+May 2021 update: the myNoise creator has discovered this post and tweeted about
+it! Hello to those of you who came here via that post, glad to have you!
 {{</infobox>}}
 
 ## Let's talk about "flow"
