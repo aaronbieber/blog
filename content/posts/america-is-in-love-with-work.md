@@ -16,8 +16,10 @@ Sure, but why do we let our jobs *define us?* Why do we love work so much?
 Why, when we meet someone for the first time, do we jump straight to *How do you
 generate economic value?* Why do people who've lost their jobs feel shame,
 self-hatred, and depression? Why is our "personal fulfillment, social inclusion,
-and respectability," as described by Northeastern sociology professor Steven
+and respectability," [as described][vallas] by Northeastern sociology professor Steven
 Vallas, so tied up in our employment?
+
+[vallas]: https://www.cnbc.com/2021/03/02/why-americas-obsession-with-work-is-making-us-miserable-psychology-professors.html
 
 All this while we, as a country, [work more hours][hours] than most other
 industrialized nations, glorify work in our laws and norms, and have 
