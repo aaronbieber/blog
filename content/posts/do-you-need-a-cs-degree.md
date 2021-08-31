@@ -17,8 +17,8 @@ architect, and a woman interviewing for a software job.
 
 I was a senior engineer and fledgling manager at that time, and was asked to
 join for lunch and help sell the senior engineer role to this person. I've never
-turned down a free lunch in my entire life, so I'll pretty much sell anything
-you want me to in exchange for a sandwich.
+turned down a free lunch in my entire life; I'll pretty much sell anything you
+want me to in exchange for a sandwich.
 
 The conversation briefly and casually wandered to the candidate's education
 history and she shared that her degree was in... I struggle to recall, but it
