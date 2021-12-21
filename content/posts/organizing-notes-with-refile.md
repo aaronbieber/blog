@@ -22,7 +22,7 @@ Let me teach you how to use it, too.<!--more-->
 The first thing you should do is RTFM, so check out manual section [9.5, Refile
 and Copy][refile]. It's not long, I'll wait right here.
 
-[refile]: http://orgmode.org/manual/Refile-and-copy.html
+[refile]: http://orgmode.org/manual/Refile-and-Copy.html
 
 The executive summary is that the Refile command allows you to move an element
 of an Org file (and its children) to another location by doing a narrowing
