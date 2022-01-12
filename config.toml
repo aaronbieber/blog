@@ -5,6 +5,9 @@ theme = "chronicle"
 uglyURLs = true
 enableEmoji = true
 
+[services.rss]
+  limit = 10
+
 [params]
   disqusShortName = "aaronbieber"
   author = "abieber"
