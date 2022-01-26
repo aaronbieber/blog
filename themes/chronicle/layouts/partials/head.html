@@ -18,3 +18,16 @@
 <script>!window.jQuery && document.write(unescape('%3Cscript src="./javascripts/libs/jquery.min.js"%3E%3C/script%3E'))</script>
 <script src="/scripts/octopress.js" type="text/javascript"></script>
 <script src="/scripts/chronicle.js" type="text/javascript"></script>
+
+{{ if .IsPage }}
+<meta property="og:type" content="article" />
+<meta property="og:url" content="{{ .Permalink }}" />
+<meta property="og:title" content="{{ .Page.Title }}" />
+<meta property="og:description" content="{{ .Summary }}" />
+<meta property="og:image" content="{{ .Site.BaseURL }}/images/the-chronicle-social-banner.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@aaronbieber" />
+<meta name="twitter:title" content="{{ .Page.Title }}" />
+<meta name="twitter:description" content="{{ .Summary }}" />
+<meta name="twitter:image" content="{{ .Site.BaseURL }}/images/the-chronicle-social-banner.png" />
+{{ end }}
