@@ -3,7 +3,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <title>{{ .Page.Title | title }}{{ if not (eq .Page.Title .Site.Title) }} - {{ .Site.Title }}{{ end }}</title>
-<meta property="og:title" content="{{ .Site.Title }}" />
 
 <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
@@ -30,4 +29,6 @@
 <meta name="twitter:title" content="{{ .Page.Title }}" />
 <meta name="twitter:description" content="{{ .Summary }}" />
 <meta name="twitter:image" content="{{ .Site.BaseURL }}/images/the-chronicle-social-banner.png" />
+{{ else }}
+<meta property="og:title" content="{{ .Site.Title }}" />
 {{ end }}
