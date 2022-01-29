@@ -2,10 +2,6 @@ $sidebar-border: #ddd;
 $sidebar-heading-border: silver;
 $sidebar-item-border: #ddd;
 
-.side-shadow-border {
-  @include box-shadow(lighten($sidebar-bg, 5) 0 1px);
-}
-
 aside.sidebar {
   overflow: hidden;
   color: black;
@@ -21,7 +17,6 @@ aside.sidebar {
       margin: 1.5em 0 0;
       padding-bottom: .2em;
       border-bottom: 1px solid $sidebar-heading-border;
-      @extend .side-shadow-border;
       + p {
         padding-top: .4em;
       }
@@ -30,7 +25,6 @@ aside.sidebar {
   img {
     @extend .flex-content;
     @extend .basic-alignment;
-    @include shadow-box($border: #fff .3em solid);
   }
   ul {
     margin-bottom: 0.5em;
@@ -41,14 +35,12 @@ aside.sidebar {
     padding: .5em 0;
     margin: 0;
     border-bottom: 1px solid $sidebar-item-border;
-    @extend .side-shadow-border;
     p:last-child {
       margin-bottom: 0;
     }
   }
   a {
     color: inherit;
-    @include transition(color .5s);
   }
   &:hover a {
     color: black;
@@ -81,7 +73,7 @@ aside.sidebar {
       font-size: 1.2em;
       line-height: 1.1em;
       padding-bottom: .15em;
-      @include border-bottom-right-radius(.3em);
+      border-bottom-right-radius: 0.3em;
       text-align: center;
       background: white;
       border-bottom: 1px solid $sidebar-border;

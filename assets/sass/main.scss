@@ -35,11 +35,14 @@ $on-laptop:        800px;
     }
 }
 
-@import "compass/compass";
-@import "compass/compass/reset";
-@include global-reset;
+@mixin border-radius($radius: $default-border-radius, $vertical-radius: false) {
+    border-radius: if($vertical-radius, #{$radius} / #{$vertical-radius}, $radius);
+}
 
-@import "utilities";
+html {
+  font-size: 100%;
+}
+
 @import "base";
 @import "layout";
 @import "syntax-highlighting";

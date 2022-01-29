@@ -6,7 +6,8 @@
 
 <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-<link href="{{ (resources.Get "sass/main.scss" | toCSS).Permalink }}" rel="stylesheet" />
+{{ $options := (dict "outputstyle" "compressed" "includePaths" (slice "assets/sass/compass")) }}
+<link href="{{ (resources.Get "sass/main.scss" | toCSS $options).Permalink }}" rel="stylesheet" />
 <link rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" href="/posts/index.xml" />
 <link rel="shortcut icon" href="/images/favicon.gif" />
 <link href='https://fonts.googleapis.com/css?family=Lora:400,400italic,700,700italic' rel='stylesheet' type='text/css' />

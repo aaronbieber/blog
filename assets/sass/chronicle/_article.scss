@@ -131,7 +131,6 @@ article {
   img, video, .flash-video {
     @extend .flex-content;
     @extend .basic-alignment;
-    @include shadow-box;
   }
   img {
     display: block;
@@ -185,7 +184,6 @@ article {
       border: 2px solid #ddd;
       color: mix($text-color, $text-color-light);
       @extend .serif;
-      @include transition(border-color .3s);
       @include border-radius(3px 3px);
       &:hover {
         border-color: #000;

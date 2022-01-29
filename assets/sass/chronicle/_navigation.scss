@@ -42,7 +42,6 @@ body > #nav_floater > nav {
     }
   }
   form {
-    @include background-clip(padding-box);
     margin: 4px 0 0 0;
     padding: 0;
     .search {
@@ -52,15 +51,12 @@ body > #nav_floater > nav {
       line-height: 1em;
       width: 95%;
       @include border-radius(.5em);
-      @include background-clip(padding-box);
-      @include box-shadow(lighten($nav-bg, 2) 0 1px);
       background-color: lighten($nav-bg, 15);
       border: 1px solid lighten($nav-border, 80);
       color: #888;
       &:focus {
         color: #444;
         border-color: #80b1df;
-        @include box-shadow(#80b1df 0 0 4px, #80b1df 0 0 3px inset);
         background-color: #fff;
         outline: none;
       }
@@ -74,7 +70,6 @@ body > #nav_floater > nav {
   @media only screen and (min-width: 550px) {
     font-size: .9em;
     ul {
-      @include horizontal-list(0);
       float: left;
       display: block;
       padding-top: .15em;
@@ -88,7 +83,13 @@ body > #nav_floater > nav {
       margin: 0;
     }
     a {
-      @include link-colors($nav-color, $nav-color-hover, $visited: $nav-color);
+      color: $nav-color;
+      &hover {
+        color: $nav-color-hover;
+      }
+      &:visited {
+        color: $nav-color;
+      }
       font-family: $serif;
       text-shadow: lighten($nav-bg, 12) 0 1px;
       float: left;
