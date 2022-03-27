@@ -33,9 +33,10 @@ learn what wines you'll probably like, and then just go buy those yourself,
 Bright Cellars would make no money.
 
 Now, it's shady enough that Bright Cellars will only sell you their own wine,
-but Bright Cellars doesn't really want you to guess that they're only selling
+but Bright Cellars doesn't really want you to *know* that they're only selling
 you their own wine. They want you to think that these wines were selected from
-among *all the world's wines*.
+among *all the world's wines*, and that's where "shady" turns to "sleazy," if
+you ask me.
 
 ## The evidence
 
