@@ -104,6 +104,16 @@ about it*.
 
 A lie by omission is nonetheless a lie.
 
+Here are some other wine brand websites that are actually operated by Bright
+Cellars (yeah, they have a *lot* of them):
+
+* [Meet Cute](https://www.meetcutewines.com/)
+* [Corsa All'Oro](https://www.corsaallorowines.com/)
+* [Colorfast](https://www.colorfastwines.com/)
+* [Silverscape](https://www.silverscapewines.com/)
+* [Cactus Park](https://www.cactusparkwines.com/)
+* [Still Bend](https://www.stillbendwines.com/)
+
 ## What if I want to learn about wine?
 
 Right out of the gate: don't pay Bright Cellars. If you want to pay money to
