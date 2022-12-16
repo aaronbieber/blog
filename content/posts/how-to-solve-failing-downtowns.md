@@ -1,7 +1,6 @@
 ---
 title: "How to Solve Failing Downtowns"
-date: 2022-12-07T07:12:43-05:00
-draft: true
+date: 2022-12-16T07:12:43-05:00
 ---
 
 I usually post about technology stuff, but since so much technology stuff
