@@ -12,7 +12,7 @@ enableEmoji = true
   disqusShortName = "aaronbieber"
   author = "abieber"
   subtitle = "of a ColdFusion Expatriate"
-  bio = "Hi, I'm Aaron Bieber. Once, long ago, I wrote ColdFusion for a living. Now I lead software engineers in Boston writing a variety of non-ColdFusion languages."
+  bio = "Hi, I'm Aaron Bieber. Once, long ago, I wrote ColdFusion for a living. Now I coach engineering leaders and write about tech and social topics on this blog."
   recentPosts = 5
 
 [permalinks]
