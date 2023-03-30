@@ -1,7 +1,6 @@
 ---
 title: "An Algorithmic Middle Ground"
-date: 2022-12-20T06:54:12-05:00
-draft: true
+date: 2023-03-30T06:00:12-05:00
 ---
 
 As a devoted listener of the [Decoder][d] podcast, I'm no stranger to the topics
@@ -88,16 +87,14 @@ So recommendations are harmful, but recommendations are necessary. What do?
 {{< dots >}}
 
 I'm trying to resist the urge to give in to *technosolutionism* and propose some
-new, simpler, better algorithm that will decisively fix all of our
-problems. Although some different technological approach to recommendations may
-work, my proposal is more fundamental.
+new, simpler, better algorithm that will decisively fix all of our problems.
+Although some different technological approach to recommendations may work, my
+proposal is more fundamental.
 
 To my mind, the only way to create a system that truly acts to serve its users
-alone is for the users to own it.
-
-You can see the beginnings of what that looks like on Mastodon, the most popular
-platform within the so-called "fediverse." Mastodon has no algorithm at all, and
-most discovery is driven by hashtags.
+alone is for the users to own it. You can see the beginnings of what that looks
+like on Mastodon, the most popular platform within the so-called "fediverse."
+Mastodon has no algorithm at all, and most discovery is driven by hashtags.
 
 No algorithm means you'll never see something and not know why; you only see
 posts from people you follow, and those "boosted" by people you follow, and the
@@ -114,3 +111,22 @@ suggests trending hashtags.
 Mastodon is only one platform, and may or may not prove itself to be as useful,
 effective, or fun as the others. I use it only as an example of what social
 media discovery features look like when designed *by the users themselves*.
+
+{{< dots >}}
+
+I think the position I've come around to is that complex, AI-driven
+recommendation algorithms may not be necessary. A naive algorithm could surface
+things that are unexpected, but wouldn't exhibit the intrinsic bias of its
+training data or the humans who created it.
+
+"See what you ask for, or see everything." Mastodon's tag-based discovery solves
+the problem of finding what you want to see, but if you want to diversify your
+feed, you can view that federated timeline, which is simply chronological. It's
+a firehose, and on some servers it can be overwhelming, but it's all-or-nothing.
+
+This way, you never see "only the concerning posts our computer brain thought
+you'd like." You'll see those, too, but along with everything else in
+chronological order for you to make the final call.
+
+This is a hard problem. Maybe the hardest problem in communication at scale
+today. What do you think? Are recommendation algorithms good? Bad? Neither?
