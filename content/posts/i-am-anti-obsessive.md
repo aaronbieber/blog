@@ -1,7 +1,6 @@
 ---
 title: "I am anti-obsessive"
-date: 2023-03-30T13:21:37-04:00
-draft: true
+date: 2023-04-16T08:15:37-04:00
 ---
 
 How does anyone sustain interest in a single thing for years at a time?
