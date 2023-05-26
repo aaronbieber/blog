@@ -1,1 +1,10 @@
-<img {{ if not (findRE "/" (.Get 0)) }}class="{{ .Get 0 }}"{{ end }} src="{{ if findRE "/" (.Get 0) }}{{ .Get 0 }}{{ else }}{{ .Get 1 }}{{ end }}">
+{{ $original := cond (not (findRE "\\." (.Get 0))) (.Get 1) (.Get 0) }}
+{{ $class := cond (not (findRE "\\." (.Get 0))) (.Get 0) (.Get 1) }}
+{{ $img := .Page.Resources.GetMatch $original }}
+{{ with $img }}
+{{ $scaled := $img.Resize "800x" }}
+<a class="lightbox" href="{{ .RelPermalink }}"><img {{ with $class }}class="{{ . }}"{{ end }} src="{{ $scaled.RelPermalink }}" /></a>
+{{ end }}
+{{ if not $img }}
+<img {{ with $class }}class="{{ . }}"{{ end }} src="{{ $original }}">
+{{ end }}
