@@ -1,6 +1,6 @@
 ---
 title: "The Joy and Pain of the Enphase API"
-date: 2023-05-27T08:38:42-04:00
+date: 2023-05-27T05:38:42-04:00
 ---
 
 I recently had rooftop solar installed, and my system uses what are called
