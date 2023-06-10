@@ -32,7 +32,7 @@ player that you can toggle animation on, which gives you that predictably random
 
 ## My New Soundscapes
 
-I submit, for your approval, these five new soundscapes! These are completely
+I submit, for your approval, these several new soundscapes! These are completely
 free of course, as is MyNoise, but if you like them I would ask just two things
 of you:
 
