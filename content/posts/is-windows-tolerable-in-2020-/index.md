@@ -29,7 +29,7 @@ Let us begin.
 
 I just realized that I never wrote about this. I tweeted about it, though.
 
-{{< tweet 1147516255080976387 >}}
+{{< img "" "tweet-6-jul-19.png" >}}
 
 I actually built this thing in late March and as soon as it booted successfully
 I stopped using my MacBook Pro as my primary computer at home. Right off the
