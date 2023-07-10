@@ -2,7 +2,7 @@
 {{ $class := cond (not (findRE "\\." (.Get 0))) (.Get 0) (.Get 1) }}
 {{ $img := .Page.Resources.GetMatch $original }}
 {{ with $img }}
-{{ $scaled := $img.Resize "800x Lanczos" }}
+{{ $scaled := $img.Fit "800x800 Lanczos" }}
 <a class="lightbox" href="{{ .RelPermalink }}"><img {{ with $class }}class="{{ . }}"{{ end }} src="{{ $scaled.RelPermalink }}" /></a>
 {{ end }}
 {{ if not $img }}
