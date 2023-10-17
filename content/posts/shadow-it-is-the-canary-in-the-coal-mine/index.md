@@ -1,5 +1,5 @@
 +++
-title = "shadow it is the canary in the coal mine"
+title = "\"shadow IT\" is the canary in the coal mine"
 date = "2015-06-13T06:35:26-04:00"
 +++
 

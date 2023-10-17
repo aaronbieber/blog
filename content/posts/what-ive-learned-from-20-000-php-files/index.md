@@ -1,5 +1,5 @@
 +++
-title = "what ive learned from 20 000 php files"
+title = "what i've learned from 20,000 PHP files"
 date = "2015-07-14T08:05:19-04:00"
 +++
 
