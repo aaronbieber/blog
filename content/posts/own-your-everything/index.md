@@ -1,7 +1,6 @@
 ---
 title: "Own Your Everything"
-date: 2023-11-07T06:01:45-05:00
-draft: true
+date: 2023-11-09T06:01:45-05:00
 ---
 
 As astute readers are aware, I've been on a [host my own stuff][host] kick for
