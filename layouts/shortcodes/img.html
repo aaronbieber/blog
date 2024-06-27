@@ -1,8 +1,12 @@
-{{ $original := cond (not (findRE "\\." (.Get 0))) (.Get 1) (.Get 0) }}
-{{ $class := cond (not (findRE "\\." (.Get 0))) (.Get 0) (.Get 1) }}
-{{ $img := .Page.Resources.GetMatch $original }}
+{{ $original := cond (not (findRE `\.` (.Get 0))) (.Get 1) (.Get 0) }}
+{{ $class := cond (not (findRE `\.` (.Get 0))) (.Get 0) (.Get 1) }}
+{{ $scaleMatches := findRESubmatch `(.*?)@(\d+)` $original }}
+{{ $file := cond (gt (len $scaleMatches) 0) (index (index $scaleMatches 0) 1) $original }}
+{{ $scale := cond (gt (len $scaleMatches) 0) (index (index $scaleMatches 0) 2) "800" }}
+{{ $scaleParam := printf "%sx%s Lanczos" $scale $scale }}
+{{ $img := .Page.Resources.GetMatch $file }}
 {{ with $img }}
-{{ $scaled := $img.Fit "800x800 Lanczos" }}
+{{ $scaled := $img.Fit $scaleParam }}
 <a class="lightbox" href="{{ .RelPermalink }}"><img {{ with $class }}class="{{ . }}"{{ end }} src="{{ $scaled.RelPermalink }}" /></a>
 {{ end }}
 {{ if not $img }}
