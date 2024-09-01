@@ -3,7 +3,7 @@
 OPTS=-rovz --delete
 EXCLUDE=--exclude '.git*' --exclude '.*' --exclude '\#*\#' --exclude Makefile
 SRC=./public/
-DEST=airborne@aaronbieber.com:/var/www/blog.aaronbieber.com/htdocs/
+DEST=airborne@10.20.10.40:/var/www/blog.aaronbieber.com/htdocs/
 
 build:
 	hugo --cleanDestinationDir
