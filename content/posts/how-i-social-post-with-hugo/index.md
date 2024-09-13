@@ -1,6 +1,5 @@
 ---
 title: "How I Social Post With Hugo"
-date: 2024-09-12T07:51:44-04:00
 draft: true
 ---
 
