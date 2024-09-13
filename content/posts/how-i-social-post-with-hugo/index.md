@@ -1,6 +1,6 @@
 ---
 title: "How I Social Post With Hugo"
-draft: true
+date: 2024-09-13T06:20:09-04:00
 ---
 
 I have a few blogs, including this one, and over the years I've used a few
