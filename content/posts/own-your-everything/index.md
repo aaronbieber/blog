@@ -50,6 +50,13 @@ of your subscription. If Spotify decides one day that you violated their terms
 of service, they can just cut you off, and you lose access to everything in your
 account.
 
+{{< infobox >}}
+NB: as of today (December 30, 2024) it is possible to download your Spotify
+playlists if you elect to close your account. That may or may not be true for
+any other service, or for Spotify on any future date, as Spotify continues to
+change their terms of service frequently.
+{{< /infobox >}}
+
 {{< img "border" "walled_garden.jpg" >}}
 
 This starts to feel gross when you are dumping hours, days, months, or years
