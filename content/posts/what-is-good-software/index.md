@@ -9,8 +9,9 @@ makes a program good or bad (as I imagine most programmers do) but as a Vim user
 for 15 years who changed camps to Emacs, I'm on the front lines of a turf war
 that shows no signs of calming.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/aaronbieber">@aaronbieber</a> That doesn&#39;t mean he was wrong :-) Both code bases are pretty horrendous if you look, I&#39;m not sure either is good software.</p>&mdash; Michael Ellerman (@michaelellerman) <a href="https://twitter.com/michaelellerman/status/720587685597872129">April 14, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> @aaronbieber That doesn't mean he was wrong :-) Both code bases are pretty
+> horrendous if you look, I'm not sure either is good software. --- Michael
+> Ellerman (@michaelellerman)
 
 I believe strongly that "good software" is that which is fit for its intended
 purpose, and that has both benevolent maintainership and a strong
