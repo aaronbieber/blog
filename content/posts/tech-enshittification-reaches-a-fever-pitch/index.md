@@ -46,7 +46,7 @@ Once the audience was locked in and the cash was free-flowing, they could start
 taking the screws to the employees. Maybe there's still a barista in every
 kitchen, but it's "come back to the office five days a week" and "your weekly
 target should be about 60 hours of work" (said Sergey Brin recently, a man who
-recently completed his transformation into a sociopathic ghoul).
+just completed his slow-motion transformation into a sociopathic ghoul).
 
 It is unequivocally the AI *narrative* that is fueling this enshittification.
 Not what AI can do, but what leaders *think AI can do*. This narrative has taken
