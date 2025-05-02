@@ -37,7 +37,7 @@ lawsuits about it.
 
 The enshittification of the tech industry is similar. Employers like Google and
 Netflix realized how much leverage they could get with great software talent, so
-they pampered the shit out of these kids with Michelin star chefs and on-site
+they pampered the shit out of these kids with Michelin Star chefs and on-site
 laundry. Eventually their products became the defaults (the market share of
 Google as a search engine is still over 90%, an absurd winning streak for a
 search service that's getting gradually worse).
