@@ -9,9 +9,9 @@ you want to listen to that while you read this, that's fine by me.
 Yesterday I tried out this new AI-centric IDE from Google and I have...
 Thoughts. This will be a mostly unstructured sequence of experiences and
 opinions, so if you are looking for something well-researched I'm sure there are
-1,000 other blogs you could read.
+1,000 other blogs you could read.<!--more-->
 
-<!--more-->
+{{< dots >}}
 
 In case you missed it, I've been developing software for 25 years now, and in
 that time I've used hundreds of different tools. I've developed in Windows, in
