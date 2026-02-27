@@ -4,6 +4,8 @@ date: 2026-02-26T16:37:17-05:00
 draft: true
 ---
 
+![Sweetgreen's Infinite Kitchen](infinite-kitchen.jpg) 
+
 Perhaps you are aware of the popular fast-casual salad shop called Sweetgreen.
 They're a semi-iconic brand here in Boston, and I've eaten a *metric shit ton*
 of their salads. They're delicious!
@@ -24,7 +26,7 @@ Friends, the reverse centaur has come for our salads.
 {{< dots >}}
 
 First, let's get square on the terminology. I'll directly quote Cory Doctorow
-here because he's my favorite activist sci-fi writer to cite:
+here because he's my favorite prolific, activist sci-fi writer to cite:
 
 > In automation theory, a "centaur" is someone who is assisted by some
 > automation system (they are a fragile human head being assisted by a tireless
@@ -32,14 +34,15 @@ here because he's my favorite activist sci-fi writer to cite:
 > to serve as a peripheral for a machine, a human body surmounted and directed
 > by a brute and uncaring head that not only uses them, but uses them *up*.
 
-See
-[Checking in on the state of Amazon's chickenized reverse-centaurs](https://pluralistic.net/2025/10/23/traveling-salesman-solution/)
+Read Doctorow's full piece,
+[Checking in on the state of Amazon's chickenized reverse-centaurs](https://pluralistic.net/2025/10/23/traveling-salesman-solution/).
 
 I dutifully approached the bank of iPads and placed an order. Admittedly, this
 is convenient, and certainly it is accurate. I have selected exactly what I want
 and there can be no debate about it. Still, there's something so weirdly
 *antiseptic* about standing five feet from a person making the stuff you're
-buying while you tap away on a screen.
+buying while you tap away on a screen. Our technology erects *invisible walls*
+between us sometimes, and once you notice them you can't un-notice them.
 
 As I stood waiting for my order and observing, as I do, I realized what was
 happening here. This made the news years ago, so my apologies if you already
