@@ -1,7 +1,6 @@
 ---
 title: "Reverse Centaur Salads"
-date: 2026-02-26T16:37:17-05:00
-draft: true
+date: 2026-02-27T10:54:39-05:00
 ---
 
 ![](infinite-kitchen.jpg)
@@ -92,3 +91,29 @@ describes in his many posts. An app tells them where to drive, what packages to
 drop, and punishes them if it is detected that they are *singing* (this is a true
 story). The human is simply doing the things that the machine cannot, and is
 also under the machine's control in very real ways.
+
+These folks packing the salads are "in between" because they're reverse-centaurs
+in the ways that they're doing what the machine cannot (putting a bowl on the
+conveyor belt, mixing in the dressing), but they're also not behaviorally
+controlled by the ordering software, or (I presume) punished for singing.
+
+It still makes me feel kind of weird, though. I think what feels weird about it
+is how these humans are doing things that, for now, only humans can do, but
+they're doing it in this silent, non-interactive way that wage slaves in
+factories do. They're utilized only for the bare minimum of what they can
+provide as humans, and otherwise treated as though they are machines.
+
+These people are employees, though, so at least they have some labor protection,
+unlike the industries that have been "chickenized;" a term applied to poultry
+farmers who have no practical control at all over their own operations. I would
+venture to guess that these stores still have managers and that employees have
+the same limited autonomy as in any fast casual restaurant.
+
+The Infinite Kitchen has yet to subsume all human management, which sounds like
+it would be an episode of *Black Mirror* or even *Doctor Who*.
+
+Still, watching someone stand above the Infinite Kitchen, *feeding it*, while
+these other two guys silently retrieve its delicious excrement and pack it for
+me and the others waiting... It felt like a bright, fluorescent dystopia.
+
+Is this innovation? Is this the future? Or is this a nightmare? You tell me.
