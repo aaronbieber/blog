@@ -3,6 +3,10 @@ exclude := "--exclude '.git*' --exclude '.*' --exclude '\\#*\\#' --exclude Makef
 src := "./public/"
 dest := "airborne@10.20.10.40:/var/www/blog.aaronbieber.com/htdocs/"
 
+# Scale images
+scale:
+    ./scale-images.sh
+
 build:
     hugo --cleanDestinationDir -e production
 
