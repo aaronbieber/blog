@@ -84,7 +84,7 @@ robot needs to *see* the reflection to know that the floor is *there,* so I even
 used aluminum tape for maximum reflectiveness. The robot refused to turn on,
 complaining that it needed to be moved every time. I took a closer look.
 
-{{< img "/images/uploads/blinding-my-roomba/sensor.png" >}}
+![](/images/uploads/blinding-my-roomba/sensor.png)
 
 The sensors are divided in two halves, one containing the emitter and the other
 containing the detector. Sensibly, and obviously in retrospect, the two halves
@@ -105,7 +105,7 @@ with some card stock and tape. I cut out a couple of squares, folded them to go
 around the sensor housings, and used painter's tape to secure it such that a
 gap was maintained between the housing and the paper so the beam could bounce.
 
-{{< img "/images/uploads/blinding-my-roomba/paper-blinder.png" >}}
+![](/images/uploads/blinding-my-roomba/paper-blinder.png)
 
 I placed the Roomba on the white area of the rug, facing the black area, and
 turned it on. It worked! It turned on and started rolling forward, stopping when
@@ -119,7 +119,7 @@ I left it this way for a couple of days. But something about paper... It just
 doesn't satisfy. Not when you have a Prusa i3 MK2 3D printer and an abiding love
 for Autocad Fusion 360. I got to work.
 
-{{< img "/images/uploads/blinding-my-roomba/printed-cap-design.png" >}}
+![](/images/uploads/blinding-my-roomba/printed-cap-design.png)
 
 Pictured above is something like version three. I took a picture of the sensor
 with my phone and imported it into Fusion 360 to trace the curve, and I used my
@@ -130,11 +130,11 @@ The cap slides right over the sensor and because the sensor is angled and the
 cap is not, there is sufficient gap for the light beam to get from the emitter
 side to the detector side. Viola! Here is what it looks like in real life:
 
-{{< img "/images/uploads/blinding-my-roomba/blinder-cap.jpg" >}}
+![](/images/uploads/blinding-my-roomba/blinder-cap.jpg)
 
 And installed:
 
-{{< img "/images/uploads/blinding-my-roomba/blinder-cap-installed.jpg" >}}
+![](/images/uploads/blinding-my-roomba/blinder-cap-installed.jpg)
 
 ## Victory!
 
@@ -152,7 +152,7 @@ I solved that by making a special cap for that one sensor that incorporates a
 curved profile on the brush side so that it only barely touches it as it passes
 over, and that did the trick.
 
-{{< img "/images/uploads/blinding-my-roomba/printed-cap-with-curve.png" >}}
+![](/images/uploads/blinding-my-roomba/printed-cap-with-curve.png)
 
 Second, on the first real time out with all the blinder caps installed, Roomba
 got stuck on the rug and commanded me to move it. I was filled with seething

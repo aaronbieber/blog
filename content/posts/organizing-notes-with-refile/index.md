@@ -3,7 +3,7 @@ title = "organizing notes with refile"
 date = "2017-03-19T10:40:12-04:00"
 +++
 
-{{< img noborder "/images/uploads/organizing-notes-with-refile/refile-screenshot.png" >}}
+![](/images/uploads/organizing-notes-with-refile/refile-screenshot.png "noborder")
 
 As the first quarter of the year reaches its end, my department is deep into
 planning the work we will do in the second quarter. As you all know, I use Org

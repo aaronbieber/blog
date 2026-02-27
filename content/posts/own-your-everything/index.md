@@ -57,7 +57,7 @@ any other service, or for Spotify on any future date, as Spotify continues to
 change their terms of service frequently.
 {{< /infobox >}}
 
-{{< img "border" "walled_garden.jpg" >}}
+![](walled_garden.jpg "border")
 
 This starts to feel gross when you are dumping hours, days, months, or years
 into creating things that you don't actually own. There are real, practical
@@ -90,7 +90,7 @@ I let you borrow a CD that I own, nobody would blink an eye. But who listens to
 CDs anymore? If I want to let you listen to an album I bought on Bandcamp, and I
 give you a copy of the mp3 files, I'm pretty sure that's actually illegal.
 
-{{< img "" "angry_judge.jpg" >}}
+![](angry_judge.jpg)
 
 If, instead of giving you a *copy*, I give you access to my Navidrome server so
 that you can stream the album from me... Is that okay? I believe that the

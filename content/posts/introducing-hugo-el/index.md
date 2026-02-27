@@ -7,7 +7,7 @@ slug: "introducing-hugo-el"
 I promised more posts, and more posts you shall have. Indeed I have been a busy
 little bee, and finally I have something to show for it.
 
-{{< img noborder "/images/uploads/introducing-hugo-el/hugo-el-screenshot.png" >}}
+![](/images/uploads/introducing-hugo-el/hugo-el-screenshot.png "noborder")
 
 When I was blogging frequently, using Octopress, one of the things I did
 straight away was to write a wrapper for Emacs called `octopress.el`

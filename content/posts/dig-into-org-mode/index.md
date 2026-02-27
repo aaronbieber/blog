@@ -3,7 +3,7 @@ title = "dig into org mode"
 date = "2016-01-30T15:59:04-05:00"
 +++
 
-{{< img noborder "/images/uploads/dig-into-org-mode/screenshot.png" >}}
+![](/images/uploads/dig-into-org-mode/screenshot.png "noborder")
 
 Org mode was one of the main reasons I tried Emacs (and left behind 15 years of
 Vim), and now it is a central part of how I organize my work. Org mode can help

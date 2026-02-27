@@ -88,7 +88,7 @@ relationship between these brands, if you just open their sites
 side-by-side. Don't all of these headers look just a little *too similar* to
 you?
 
-{{< img "/images/uploads/bright-cellars/bright-cellars-portfolio.jpg" >}}
+![](/images/uploads/bright-cellars/bright-cellars-portfolio.jpg)
 
 Bright Cellars may not be your ticket to global wine discovery, but *damn
 they're good at branding*!

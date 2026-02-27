@@ -9,9 +9,9 @@ makes a program good or bad (as I imagine most programmers do) but as a Vim user
 for 15 years who changed camps to Emacs, I'm on the front lines of a turf war
 that shows no signs of calming.
 
-> @aaronbieber That doesn't mean he was wrong :-) Both code bases are pretty
-> horrendous if you look, I'm not sure either is good software. --- Michael
-> Ellerman (@michaelellerman)
+> **@aaronbieber** That doesn't mean he was wrong :-) Both code bases are pretty
+> horrendous if you look, I'm not sure either is good software.  
+> --- Michael Ellerman (@michaelellerman)
 
 I believe strongly that "good software" is that which is fit for its intended
 purpose, and that has both benevolent maintainership and a strong
@@ -173,8 +173,9 @@ implement certain features and, for the most part, the community can step in and
 do it themselves. Because VimL's capabilities are much more limited, features
 like job management have taken years to make it into the hands of users.
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/aaronbieber">@aaronbieber</a> But emacs has only had evil mode for ~5 (?) years, so they&#39;re basically even.</p>&mdash; Michael Ellerman (@michaelellerman) <a href="https://twitter.com/michaelellerman/status/720534735781552128">April 14, 2016</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+> **@aaronbieber** But emacs has only had evil mode for ~5 (?) years, so they're
+> basically even.  
+> --- Michael Ellerman (@michaelellerman)
 
 What Michael says above is true, but the difference is that Evil Mode is
 implemented in pure Emacs Lisp and did not need the blessing of the project's

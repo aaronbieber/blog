@@ -3,7 +3,7 @@ title: "The Rise of the Indie Web"
 date: 2022-11-20T11:30:39-04:00
 ---
 
-{{< img "right" "/images/uploads/indie-web/bird-on-fire.png" "caption" >}}
+![](/images/uploads/indie-web/bird-on-fire.png "right")
 
 [Elon taking over Twitter][elon] and the rise in [subscription everything][subs],
 paired with a renewed fear of [surveillance capitalism][sc] has caused a ton of

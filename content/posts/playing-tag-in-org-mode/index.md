@@ -9,7 +9,7 @@ and you have over 2,500 lines of Org notes and TODO lists as I do (I'm serious;
 see the screenshot below), you'll want to seriously up your agenda game so that
 you can find stuff quickly.
 
-{{< img noborder "/images/uploads/playing-tag-in-org-mode/2500-org-files.png" >}}
+![](/images/uploads/playing-tag-in-org-mode/2500-org-files.png "noborder")
 
 One way to collate related information across Org files is by using tags. I'm
 not a tagging expert, but I'll tell you what I know.<!--more-->

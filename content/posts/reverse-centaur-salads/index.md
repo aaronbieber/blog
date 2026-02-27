@@ -4,7 +4,7 @@ date: 2026-02-26T16:37:17-05:00
 draft: true
 ---
 
-![Sweetgreen's Infinite Kitchen](infinite-kitchen.jpg) 
+![](infinite-kitchen.jpg)
 
 Perhaps you are aware of the popular fast-casual salad shop called Sweetgreen.
 They're a semi-iconic brand here in Boston, and I've eaten a *metric shit ton*
@@ -77,4 +77,18 @@ other reason to put glass doors on the things, and have glass cylinders inside.
 It's so that we (the customers) can watch it work. It's impressive, it's
 futuristic.
 
-At the same time, 
+At the same time, it felt icky.
+
+{{< dots >}}
+
+This Infinite Kitchen gadget sits on a spectrum that runs from full-centaur to
+full-reverse-centaur and I'm grappling with what that even means. On the
+full-centaur side is a robot vacuum. You just turn it on and it essentially
+performs a menial job for you with little oversight. It is entirely under your
+command and control and all of the benefits of the automation accrue to you.
+
+On the full-reverse-centaur side is the Amazon delivery driver, as Doctorow
+describes in his many posts. An app tells them where to drive, what packages to
+drop, and punishes them if it is detected that they are *singing* (this is a true
+story). The human is simply doing the things that the machine cannot, and is
+also under the machine's control in very real ways.

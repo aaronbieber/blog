@@ -249,7 +249,7 @@ lightweight solution... So I wrote one.
 
 ### Introducing Tiny Menu ###
 
-{{< img noborder "https://raw.githubusercontent.com/aaronbieber/tiny-menu.el/master/assets/screenshot.png" >}}
+![](https://raw.githubusercontent.com/aaronbieber/tiny-menu.el/master/assets/screenshot.png "noborder")
 
 As its name implies, [Tiny Menu][tiny-menu]
 is... Tiny. Hydra weighs in at about 1,100 lines of code excluding preamble,

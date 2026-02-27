@@ -50,7 +50,7 @@ the page and select "High" for the "range" parameter).
 
 OK, let's do it.
    
-{{< img "card" "cyber-sleep.jpg" >}}
+![](cyber-sleep.jpg "card")
 
 **[Cyber Sleep][cybersleep]**
 
@@ -59,7 +59,7 @@ combination of rain and synth pads is utterly enveloping.
 
 ---
 
-{{< img "card" "digital-city.jpg" >}}
+![](digital-city.jpg "card")
 
 **[Digital City][digitalcity]**
 
@@ -68,7 +68,7 @@ generator of this kind on the site, but I like the simplicity of mine.
 
 ---
 
-{{< img "card" "eye-of-the-storm.jpg" >}}
+![](eye-of-the-storm.jpg "card")
 
 **[Eye of the Storm][eye]**
 
@@ -79,7 +79,7 @@ weather noise.
 
 ---
 
-{{< img "card" "to-oz.jpg" >}}
+![](to-oz.jpg "card")
 
 **[To Oz][oz]**
 
@@ -91,7 +91,7 @@ Did I achieve that feeling? You tell me.
 
 ---
 
-{{< img "card" "pirate-ship.jpg" >}}
+![](pirate-ship.jpg "card")
 
 **[Pirate Ship][pirate]**
 
@@ -104,7 +104,7 @@ voyage.
 
 ---
 
-{{< img "card" "stranded.jpg" >}}
+![](stranded.jpg "card")
 
 **[Stranded][stranded]**
 

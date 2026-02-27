@@ -18,7 +18,7 @@ me to explain them all in tedious detail!
 
 Here's a picture of what we're shooting for:
 
-{{< img "grafana-dashboard-screenshot.jpg" >}}
+![](grafana-dashboard-screenshot.jpg)
 
 This is a dashboard that I built in Grafana (which is awesome). The "Solar
 Energy" section at the top mimics the way the Enphase official app displays this
@@ -146,7 +146,7 @@ it supports Python, Node, and Meteor now).
 Looking at the API usage stats on the Enphase developer site (below), you can
 see that I used about half of the number of requests you'd expect for two days.
 
-{{< img "enphase-statistics.png" >}}
+![](enphase-statistics.png)
 
 This supports the hypothesis that the Passenger app queue was full at the edge
 and the requests never even made it to the API application itself, therefore

@@ -54,7 +54,7 @@ Let's get started.
 
 ## Build a Protocol Handler ##
 
-[{{< img left "/images/uploads/applescript-icon.png" >}}][oph]
+[![](/images/uploads/applescript-icon.png "left")][oph]
 
 The code necessary to implement a system-level protocol handler in OS X is
 surprisingly simple, especially if you write it in AppleScript. Any application

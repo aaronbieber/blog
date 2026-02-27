@@ -103,7 +103,7 @@ appear!
 Here is my Lilliput monitor proudly displaying a live power usage graph in
 Grafana in Firefox, fullscreen:
 
-{{< img "drop" "/images/uploads/displaylink/lilliput-7-grafana.jpg" >}}
+![](/images/uploads/displaylink/lilliput-7-grafana.jpg "drop")
 
 I'm sure you have questions. I may have answers... You can try in the comments
 below!

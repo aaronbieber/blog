@@ -11,7 +11,7 @@ apart and reuse its guts.
 
 I present, the network-controlled swiveling wall lamp.
 
-{{< img "/images/uploads/arduino-swivel-lamp/swivel-lamp-full.jpg" >}}
+![](/images/uploads/arduino-swivel-lamp/swivel-lamp-full.jpg)
 
 There's a crappy video and parts list at the end, if you want to scroll past all
 of the (shockingly impressive) how-it-works stuff to find it.
@@ -59,7 +59,7 @@ could just copy that portion, but I had to learn how to model spur gears, figure
 out what size gears to use, and create the structure that would hold the motor
 itself.
 
-{{< img "/images/uploads/arduino-swivel-lamp/swivel-lamp-design.png" >}}
+![](/images/uploads/arduino-swivel-lamp/swivel-lamp-design.png)
 
 This part was the hardest, although the gears and motor aligned perfectly on the
 first try. What I had some trouble with was the mount for the motor to its drive

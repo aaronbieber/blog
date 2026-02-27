@@ -3,7 +3,7 @@ title = "why python is your tooling language of choice"
 date = "2013-04-08"
 Categories = []
 +++
-{{< img left "/images/uploads/why-python/python_logo.gif" >}}
+![](/images/uploads/why-python/python_logo.gif "left")
 
 Python is, by far, the language of your choosing when you need to build a 
 toolchain of utilities that interact with local systems, servers, other 

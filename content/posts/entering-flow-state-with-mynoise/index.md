@@ -104,7 +104,7 @@ massive features that you need to know about to get the most out of myNoise.
 As I mentioned previously, each "generator" comprises ten independent audio
 channels, and you can adjust the volume of each channel as you wish.
 
-{{< img float "/images/uploads/entering-flow-state-with-mynoise/mynoise-faders.png" >}}
+![](/images/uploads/entering-flow-state-with-mynoise/mynoise-faders.png "float")
 
 Above is a picture of the controls for a generator (one of my personal
 favorites). Each of the ten colorful sliders controls the volume of one of the

@@ -29,7 +29,7 @@ Let us begin.
 
 I just realized that I never wrote about this. I tweeted about it, though.
 
-{{< img "" "tweet-6-jul-19.png" >}}
+![](tweet-6-jul-19.png)
 
 I actually built this thing in late March and as soon as it booted successfully
 I stopped using my MacBook Pro as my primary computer at home. Right off the
@@ -118,7 +118,7 @@ see a tab called "Color Management" so you click that, which presents you with
 one button that reads "Color Management..." so you click on that, and
 **finally** you get to the "Color Management" control panel.
 
-{{< img noborder "/images/uploads/windows-in-2020/color-dialogs.jpg" >}}
+![](/images/uploads/windows-in-2020/color-dialogs.jpg "noborder")
 
 Here you will find a list of profiles associated with your adapter/monitor, so
 you click "Add..." and you choose the file and you add it and you click "Close"
@@ -243,7 +243,7 @@ laptop, you understand me here. Compared to the way it feels to scroll and pinch
 and multi-finger swipe on Mac laptops, these Windows-compatible trackpads might
 as well be a series of strings that you pull on to move the cursor around.
 
-{{< img noborder "/images/uploads/windows-in-2020/mr-bean.png" >}}
+![](/images/uploads/windows-in-2020/mr-bean.png "noborder")
 
 (For those who don't get the joke, the picture above is Mr. Bean driving his car
 from the roof by pulling on a rope he tied to the steering wheel and using a mop

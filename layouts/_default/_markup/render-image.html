@@ -1,0 +1,14 @@
+{{- $src := .Destination -}}
+{{- $alt := .PlainText -}}
+{{- $class := .Title -}}
+{{- $scaleMatches := findRESubmatch `(.*?)@(\d+)$` $src -}}
+{{- $file := cond (gt (len $scaleMatches) 0) (index (index $scaleMatches 0) 1) $src -}}
+{{- $scale := cond (gt (len $scaleMatches) 0) (index (index $scaleMatches 0) 2) "800" -}}
+{{- $scaleParam := printf "%sx%s Lanczos" $scale $scale -}}
+{{- $img := .Page.Resources.GetMatch $file -}}
+{{- if $img -}}
+{{- $scaled := $img.Fit $scaleParam -}}
+<a class="lightbox" href="{{ $img.RelPermalink }}"><img{{ with $class }} class="{{ . }}"{{ end }} src="{{ $scaled.RelPermalink }}" alt="{{ $alt }}"></a>
+{{- else -}}
+<img{{ with $class }} class="{{ . }}"{{ end }} src="{{ $src }}" alt="{{ $alt }}">
+{{- end -}}

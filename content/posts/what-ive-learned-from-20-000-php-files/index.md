@@ -3,7 +3,7 @@ title = "what i've learned from 20,000 PHP files"
 date = "2015-07-14T08:05:19-04:00"
 +++
 
-{{< img right "/images/uploads/20-000-php-files/watch-mechanism.png" >}}
+![](/images/uploads/20-000-php-files/watch-mechanism.png "right")
 
 Aside from the well-known considerations of the computer science discipline like
 algorithmic efficiency, decoupling, cohesion, and so on, working on a huge

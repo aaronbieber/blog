@@ -40,7 +40,7 @@ about later. Right now, on Amazon, you can pick up
 a [two-pack of Shelly 1 relays][buyshelly] for about $22, putting these at about
 $11 a pop, which to my mind is a great bargain.
 
-{{< img "shelly1gen1.png@300" >}}
+![](shelly1gen1.png@300)
 
 [buyshelly]: https://amzn.to/3XI969k
 
