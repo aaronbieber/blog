@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(xargs:*)",
+      "Bash(hugo version:*)",
+      "Bash(hugo:*)",
+      "Bash(grep:*)"
+    ]
+  }
+}
