@@ -18,7 +18,7 @@ me to explain them all in tedious detail!
 
 Here's a picture of what we're shooting for:
 
-{{< img "grafana-dashboard-screenshot.png" >}}
+{{< img "grafana-dashboard-screenshot.jpg" >}}
 
 This is a dashboard that I built in Grafana (which is awesome). The "Solar
 Energy" section at the top mimics the way the Enphase official app displays this
