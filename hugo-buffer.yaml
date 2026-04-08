@@ -1,0 +1,5 @@
+post:
+  template: |
+    Read my latest post on The Chronicle, "{{ .Title }}"
+
+    {{ .Link }}
