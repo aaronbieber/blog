@@ -38,10 +38,10 @@ been right here in front of us for essentially all of American history.
 
 We've always sought to replace expensive, error-prone humans with cheaper, more
 reliable machines. From the plow to the loom to the assembly line to the
-algorithm, we've always supplanted manual labor with automation the moment it
-becomes viable. The machines, in each of those cases, were just tools; at best
-they made life easier and sometimes longer, and at worst they held up a mirror
-to our poor decisions.
+algorithm, we've supplanted manual labor with automation the moment it becomes
+viable. The machines, in each of those cases, were just tools; at best they made
+life easier and sometimes longer, and at worst they held up a mirror to our poor
+decisions.
 
 The most well-known people to have gazed into that mirror, and recoiled at what
 they saw, were the "Luddites" of Nottingham, UK, in 1811. Many people think of
